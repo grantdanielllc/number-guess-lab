@@ -5,6 +5,9 @@ import java.util.concurrent.ThreadLocalRandom;
 
 
 public class GuessGame {
+	
+	private String var = "Where is my .gitignore file?";
+	
 // lazenby was here!!!!
 	
 	//TODO BRONZE
